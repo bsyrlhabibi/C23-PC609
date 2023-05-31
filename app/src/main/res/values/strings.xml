@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">LoginRegister</string>
+
+    <string name="logo">Logo</string>
+    <string name="tittle_app">POTHOLE SENSE</string>
+    <string name="input_name">Masukan Nama Anda</string>
+    <string name="input_email">Masukan Email Anda</string>
+    <string name="input_password">Masukan Kata Sandi Anda</string>
+    <string name="re_password">Masukkan Kembali Kata Sandi Anda</string>
+    <string name="error_email">Masukan Email Yang Valid</string>
+    <string name="question">Belum punya akun? </string>
+    <string name="login">Masuk</string>
+    <string name="register">Daftar</string>
+    <string name="forgot_password">Lupa kata sandi?</string>
+</resources>
